@@ -1,0 +1,15 @@
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\service\AsteroidServiceImpl.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\AsteroidApplication.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\config\MapperConfig.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\model\AsteroidWrapperDTO.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\util\ModelValidation.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\config\SwaggerConfig.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\model\AsteroidsCalculatedDTO.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\repository\AsteroidRepository.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\controller\AsteroidController.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\mapper\AsteroidMapper.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\entity\Asteroid.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\config\AppConfig.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\service\AsteroidService.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\exception\BadRequestException.java
+C:\Users\alexa\IdeaProjects\asteroids-back\src\main\java\asteroids\model\AsteroidDTO.java

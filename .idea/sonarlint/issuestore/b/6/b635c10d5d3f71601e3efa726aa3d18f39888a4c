@@ -1,0 +1,16 @@
+
+x
+java:S1128"VRemove this unused import 'com.fasterxml.jackson.databind.annotation.JsonDeserialize'.(Úˆ×øÿÿÿÿ8“½©Îå/
+v
+java:S1128"TRemove this unused import 'com.fasterxml.jackson.databind.annotation.JsonSerialize'.(ÖÎèöúÿÿÿÿ8•½©Îå/
+{
+java:S1128"^Remove this unused import 'com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer'.(¯õ…á8–½©Îå/
+w
+java:S1128"ZRemove this unused import 'com.fasterxml.jackson.datatype.jsr310.ser.LocalDateSerializer'.(‡ŞŞå8–½©Îå/
+d
+java:S1128
+"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µã‡ıÿÿÿÿ8—½©Îå/
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8—½©Îå/
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8—½©Îå/

@@ -1,0 +1,16 @@
+asteroids\config\SwaggerConfig.class
+asteroids\model\AsteroidDTO.class
+asteroids\mapper\AsteroidMapperImpl.class
+asteroids\controller\AsteroidController.class
+asteroids\mapper\AsteroidMapper.class
+asteroids\config\AppConfig.class
+asteroids\repository\AsteroidRepository.class
+asteroids\service\AsteroidService.class
+asteroids\config\MapperConfig.class
+asteroids\AsteroidApplication.class
+asteroids\service\AsteroidServiceImpl.class
+asteroids\util\ModelValidation.class
+asteroids\entity\Asteroid.class
+asteroids\model\AsteroidsCalculatedDTO.class
+asteroids\exception\BadRequestException.class
+asteroids\model\AsteroidWrapperDTO.class
